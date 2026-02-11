@@ -1,4 +1,3 @@
-<!-- fallback_MerkleProof_20260210090302_63019 -->
 
 # MerkleProof: Cryptographically-verified MerkleProof framework enabling scalable, optimized Merkle tree construction for high-performance proof generation infrastructure Implementation
 > Advanced typescript solution leveraging modern architecture patterns and cutting-edge technology.
